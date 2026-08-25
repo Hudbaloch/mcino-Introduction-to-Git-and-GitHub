@@ -33,3 +33,4 @@ Community leaders will take appropriate and fair corrective action in response t
 ## Attribution
 
 This Code of Conduct is adapted from the Contributor Covenant, version 1.4.
+curl -L https://raw.githubusercontent.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/main/CODE_OF_CONDUCT.md -o CODE_OF_CONDUCT.md
